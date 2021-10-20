@@ -2,36 +2,50 @@
 ***
 + Instalación herramientas de red  
 Introducimos los comandos para instalar las herramientas tras hacer apt update  
-
-    + ping
+    + ping  
+    
     apt install iputils-ping
-    +tracepath
+    + tracepath  
+    
     apt install iputils-tracepath
-    +traceroute
+    + traceroute  
+    
     apt install traceroute
-    +MTR
+    + MTR  
+    
     apt install mtr
-    +ifconfig
+    +ifconfig  
+    
     apt install net-tools
-    +ifdown-ifup
+    +ifdown-ifup  
+    
     apt install ifupdown
-    +ip adress show
+    +ip adress show  
+    
     apt install iproute2
-    +host
+    +host  
+    
     apt install host
-    +route
+    +route  
+    
     instalado con net-tools
-    +ifplugstatus
+    +ifplugstatus  
+    
     apt install ifplugd.
-    +dhclient
+    +dhclient  
+    
     isc-dhcp-client
-    +netstat
+    +netstat  
+    
     instalado con net-tools
-    +whois
+    +whois  
+    
     apt install whois
-    +wget curl
+    +wget curl  
+    
     apt install wget && apt install curl
-    +dig
+    +dig  
+    
     apt install dnsutils
 +Configura el cliente para que su DNS sea el otro contenedor
     +instalar nano
