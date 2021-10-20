@@ -4,19 +4,19 @@
 Introducimos los comandos para instalar las herramientas tras hacer apt update  
     + ping  
     
-    apt install iputils-ping
+      apt install iputils-ping
     + tracepath  
     
-    apt install iputils-tracepath
+      apt install iputils-tracepath
     + traceroute  
     
-    apt install traceroute
+      apt install traceroute
     + MTR  
     
-    apt install mtr
+      apt install mtr
     +ifconfig  
     
-    apt install net-tools
+      apt install net-tools
     +ifdown-ifup  
     
     apt install ifupdown
