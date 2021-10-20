@@ -1,8 +1,8 @@
 # **Docker Configuración cliente + servidor DNS**
 ***
-+Instalación herramientas de red
++ Instalación herramientas de red
 Introducimos los comandos para instalar las herramientas tras hacer apt update
-    +ping
+    + ping
     apt install iputils-ping
     +tracepath
     apt install iputils-tracepath
