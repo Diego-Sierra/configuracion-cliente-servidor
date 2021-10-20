@@ -1,12 +1,12 @@
 # **Docker Configuración cliente + servidor DNS**
 ***
-*Instalación herramientas de red
++Instalación herramientas de red
 Introducimos los comandos para instalar las herramientas tras hacer apt update
-    **ping
+    +ping
     apt install iputils-ping
-    **tracepath
+    +tracepath
     apt install iputils-tracepath
-    **traceroute
+    +traceroute
     apt install traceroute
     +MTR
     apt install mtr
