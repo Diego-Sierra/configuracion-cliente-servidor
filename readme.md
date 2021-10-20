@@ -1,4 +1,4 @@
-# **Docker Configuración cliente + servidor DNS **
+# **Docker Configuración cliente + servidor DNS**
 ***
 *Instalación herramientas de red
 Introducimos los comandos para instalar las herramientas tras hacer apt update
