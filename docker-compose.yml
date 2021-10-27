@@ -11,9 +11,5 @@ services:
     stdin_open: true  # docker run -i
     tty: true         # docker run -t
 volumes:
-<<<<<<< HEAD
   conf:
   external: true #tenemos que tenerlo creado previamente
-=======
-  conf: true #tenemos que tenerlo creado previamente
->>>>>>> d700c870f1a5528fbeb4e762037d45dc39409a2b
