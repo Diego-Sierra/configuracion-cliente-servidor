@@ -12,3 +12,4 @@ services:
     tty: true         # docker run -t
 volumes:
   conf:
+  external: true #tenemos que tenerlo creado previamente
